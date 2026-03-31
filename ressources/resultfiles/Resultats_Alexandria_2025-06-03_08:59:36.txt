@@ -1,0 +1,20 @@
+Nombre d'utilisateurs par année de naissance :
+Année 1907 : 1 utilisateurs
+Année 1908 : 1 utilisateurs
+Année 1973 : 1 utilisateurs
+Année 1974 : 1 utilisateurs
+Année 1978 : 1 utilisateurs
+Année 1979 : 2 utilisateurs
+Année 1986 : 1 utilisateurs
+Année 1988 : 1 utilisateurs
+Année 1991 : 1 utilisateurs
+Année 1997 : 1 utilisateurs
+Année 2000 : 1 utilisateurs
+Année 2003 : 3 utilisateurs
+Année 2004 : 1 utilisateurs
+Année 2025 : 1 utilisateurs
+Année 2026 : 1 utilisateurs
+
+Durée effective moyenne d’un prêt : 25.64 jours
+
+Nombre de livres contenant le mot 'hob' : 1 livres trouvés
