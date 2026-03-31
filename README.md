@@ -59,17 +59,3 @@ The project is organized into several packages:
 
 ## Usage 🖱️
 Once the application is running, you can navigate through the different management windows (Books, Authors, Genres, Users, Loans) using the GUI. Use the buttons and forms to add, view, update, or delete data.
-
-## Contributing 🤝
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-1.  **Fork** the repository. 🍴
-2.  Create a new **branch** for your feature or bug fix. 🌿
-3.  Make your **changes** and **commit** them with descriptive messages. ✍️
-4.  **Push** your changes to your forked repository. ⬆️
-5.  Submit a **pull request** to the main repository. 📬
-
-## License 📜
-This project is licensed under the MIT License. See the [LICENSE file](nolink) for more details.
-
-## Contact 📧
-For any questions or inquiries, please contact [me](mailto:loris.cazaux@groupe-esigelec.org)!
